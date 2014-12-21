@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <Button android:textSize="30.0dip" android:id="@+id/buttonDeskOn" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Desk Lamp On" android:layout_weight="1.0" />
+        <Button android:textSize="30.0dip" android:id="@+id/buttonFloorOn" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Floor Lamp On" android:layout_weight="1.0" />
+        <Button android:textSize="30.0dip" android:id="@+id/buttonDrivewayOn" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Dining Room Lights On" android:layout_weight="1.0" />
+        <Button android:textSize="30.0dip" android:id="@+id/buttonOutsideOn" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Driveway Lights On" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <Button android:textSize="30.0dip" android:id="@+id/buttonDeskOff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Desk Lamp Off" android:layout_weight="1.0" />
+        <Button android:textSize="30.0dip" android:id="@+id/buttonFloorOff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Floor Lamp Off" android:layout_weight="1.0" />
+        <Button android:textSize="30.0dip" android:id="@+id/buttonDrivewayOff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Dining Room Lights Off" android:layout_weight="1.0" />
+        <Button android:textSize="30.0dip" android:id="@+id/buttonOutsideOff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Driveway Lights Off" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>
