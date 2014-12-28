@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/scott/AndroidStudioProjects/LightTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/scott/AndroidStudioProjects/LightTest/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-46c6182c4bc908e0d45e54afaf9ff17b51f4503a.jar" />
+    </item>
+    <item
+        jar="/home/scott/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/scott/AndroidStudioProjects/LightTest/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3ad0fea8b8d08e7e9cbe530d4f31fa57d8fb7320.jar" />
+    </item>
+    <item
+        jar="/home/scott/AndroidStudioProjects/LightTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/scott/AndroidStudioProjects/LightTest/app/build/intermediates/pre-dexed/debug/classes-3fcb8bc6c2ea16ac0a038e5d1085c0cb153be278.jar" />
+    </item>
+    <item
+        jar="/home/scott/AndroidStudioProjects/LightTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/scott/AndroidStudioProjects/LightTest/app/build/intermediates/pre-dexed/debug/classes-ae43603ad1ae6bc5ada9e0e33421a5eba5f22630.jar" />
+    </item>
+
+</items>

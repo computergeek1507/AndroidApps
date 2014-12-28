@@ -1,13 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Light Switch</string>
+    <string name="settings_connection_title">Connection Settings</string>
+
     <string name="action_settings">Settings</string>
     <string name="settings_server_ip_sum">OpenHAB Sever IP Address</string>
     <string name="settings_server_ip">Sever IP Address</string>
     <string name="settings_server_port_sum">OpenHAB Sever Port</string>
     <string name="settings_server_port">Sever Port</string>
-    <string name="settings_switch1_Name">Switch One Name</string>
-    <string name="settings_switch2_Name">Switch Two Name</string>
-    <string name="settings_switch3_Name">Switch Three Name</string>
+
+    <string name="settings_button1_title">Button 1 Settings</string>
+    <string name="settings_button2_title">Button 2 Settings</string>
+    <string name="settings_button3_title">Button 3 Settings</string>
+    <string name="settings_button4_title">Button 4 Settings</string>
+    <string name="settings_button5_title">Button 5 Settings</string>
+    <string name="settings_button6_title">Button 6 Settings</string>
+    <string name="settings_button7_title">Button 7 Settings</string>
+    <string name="settings_button8_title">Button 8 Settings</string>
+    <string name="button1Text">Button 1 Text</string>
+    <string name="button2Text">Button 2 Text</string>
+    <string name="button3Text">Button 3 Text</string>
+    <string name="button4Text">Button 4 Text</string>
+    <string name="button5Text">Button 5 Text</string>
+    <string name="button6Text">Button 6 Text</string>
+    <string name="button7Text">Button 7 Text</string>
+    <string name="button8Text">Button 8 Text</string>
+
+    <string name="settings_button1_text_sum">Button 1 Text For Button</string>
+    <string name="settings_button1_text_title">Button 1 Text</string>
+    <string name="settings_button1_key_sum">Button 1 OpenHAB Item Name</string>
+    <string name="settings_button1_key_title">Button 1 Item</string>
+    <string name="settings_button1_value_sum">Button 1 "Post" Value i.e "ON"</string>
+    <string name="settings_button1_value_title">Button 1 Value</string>
+
+    <string name="settings_button2_text_sum">Button 2 Text For Button</string>
+    <string name="settings_button2_text_title">Button 2 Text</string>
+    <string name="settings_button2_key_sum">Button 2 OpenHAB Item Name</string>
+    <string name="settings_button2_key_title">Button 2 Item</string>
+    <string name="settings_button2_value_sum">Button 2 "Post" Value i.e "ON"</string>
+    <string name="settings_button2_value_title">Button 2 Value</string>
+
+    <string name="settings_button3_text_sum">Button 3 Text For Button</string>
+    <string name="settings_button3_text_title">Button 3 Text</string>
+    <string name="settings_button3_key_sum">Button 3 OpenHAB Item Name</string>
+    <string name="settings_button3_key_title">Button 3 Item</string>
+    <string name="settings_button3_value_sum">Button 3 "Post" Value i.e "ON"</string>
+    <string name="settings_button3_value_title">Button 3 Value</string>
+
+    <string name="settings_button4_text_sum">Button 4 Text For Button</string>
+    <string name="settings_button4_text_title">Button 4 Text</string>
+    <string name="settings_button4_key_sum">Button 4 OpenHAB Item Name</string>
+    <string name="settings_button4_key_title">Button 4 Item</string>
+    <string name="settings_button4_value_sum">Button 4 "Post" Value i.e "ON"</string>
+    <string name="settings_button4_value_title">Button 4 Value</string>
+
+    <string name="settings_button5_text_sum">Button 5 Text For Button</string>
+    <string name="settings_button5_text_title">Button 5 Text</string>
+    <string name="settings_button5_key_sum">Button 5 OpenHAB Item Name</string>
+    <string name="settings_button5_key_title">Button 5 Item</string>
+    <string name="settings_button5_value_sum">Button 5 "Post" Value i.e "ON"</string>
+    <string name="settings_button5_value_title">Button 5 Value</string>
+
+    <string name="settings_button6_text_sum">Button 6 Text For Button</string>
+    <string name="settings_button6_text_title">Button 6 Text</string>
+    <string name="settings_button6_key_sum">Button 6 OpenHAB Item Name</string>
+    <string name="settings_button6_key_title">Button 6 Item</string>
+    <string name="settings_button6_value_sum">Button 6 "Post" Value i.e "ON"</string>
+    <string name="settings_button6_value_title">Button 6 Value</string>
+
+    <string name="settings_button7_text_sum">Button 7 Text For Button</string>
+    <string name="settings_button7_text_title">Button 7 Text</string>
+    <string name="settings_button7_key_sum">Button 7 OpenHAB Item Name</string>
+    <string name="settings_button7_key_title">Button 7 Item</string>
+    <string name="settings_button7_value_sum">Button 7 "Post" Value i.e "ON"</string>
+    <string name="settings_button7_value_title">Button 7 Value</string>
+
+    <string name="settings_button8_text_sum">Button 8 Text For Button</string>
+    <string name="settings_button8_text_title">Button 8 Text</string>
+    <string name="settings_button8_key_sum">Button 8 OpenHAB Item Name</string>
+    <string name="settings_button8_key_title">Button 8 Item</string>
+    <string name="settings_button8_value_sum">Button 8 "Post" Value i.e "ON"</string>
+    <string name="settings_button8_value_title">Button 8 Value</string>
 
 </resources>

@@ -1,14 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <EditTextPreference
-        android:inputType="phone"
-        android:key="server_ip"
-        android:summary="@string/settings_server_ip_sum"
-        android:title="@string/settings_server_ip" />
-    <EditTextPreference
-        android:inputType="phone"
-        android:key="server_port"
-        android:summary="@string/settings_server_port_sum"
-        android:title="@string/settings_server_port" />
+
+        <EditTextPreference
+            android:inputType="phone"
+            android:key="server_ip"
+            android:summary="@string/settings_server_ip_sum"
+            android:title="@string/settings_server_ip" />
+        <EditTextPreference
+            android:inputType="phone"
+            android:key="server_port"
+            android:summary="@string/settings_server_port_sum"
+            android:title="@string/settings_server_port" />
+
+
+        <EditTextPreference
+            android:key="button1_text"
+            android:summary="@string/settings_button1_text_sum"
+            android:title="@string/settings_button1_text_title" />
+        <EditTextPreference
+            android:key="button1_key"
+            android:summary="@string/settings_button1_key_sum"
+            android:title="@string/settings_button1_key_title" />
+        <EditTextPreference
+            android:key="button1_value"
+            android:summary="@string/settings_button1_value_sum"
+            android:title="@string/settings_button1_value_title" />
+
+        <EditTextPreference
+            android:key="button2_text"
+            android:summary="@string/settings_button2_text_sum"
+            android:title="@string/settings_button2_text_title" />
+        <EditTextPreference
+            android:key="button2_key"
+            android:summary="@string/settings_button2_key_sum"
+            android:title="@string/settings_button2_key_title" />
+        <EditTextPreference
+            android:key="button2_value"
+            android:summary="@string/settings_button2_value_sum"
+            android:title="@string/settings_button2_value_title" />
+
+        <EditTextPreference
+            android:key="button3_text"
+            android:summary="@string/settings_button3_text_sum"
+            android:title="@string/settings_button3_text_title" />
+        <EditTextPreference
+            android:key="button3_key"
+            android:summary="@string/settings_button3_key_sum"
+            android:title="@string/settings_button3_key_title" />
+        <EditTextPreference
+            android:key="button3_value"
+            android:summary="@string/settings_button3_value_sum"
+            android:title="@string/settings_button3_value_title" />
+
+        <EditTextPreference
+            android:key="button4_text"
+            android:summary="@string/settings_button4_text_sum"
+            android:title="@string/settings_button4_text_title" />
+        <EditTextPreference
+            android:key="button4_key"
+            android:summary="@string/settings_button4_key_sum"
+            android:title="@string/settings_button4_key_title" />
+        <EditTextPreference
+            android:key="button4_value"
+            android:summary="@string/settings_button4_value_sum"
+            android:title="@string/settings_button4_value_title" />
+
+        <EditTextPreference
+            android:key="button5_text"
+            android:summary="@string/settings_button5_text_sum"
+            android:title="@string/settings_button5_text_title" />
+        <EditTextPreference
+            android:key="button5_key"
+            android:summary="@string/settings_button5_key_sum"
+            android:title="@string/settings_button5_key_title" />
+        <EditTextPreference
+            android:key="button5_value"
+            android:summary="@string/settings_button5_value_sum"
+            android:title="@string/settings_button5_value_title" />
+
+        <EditTextPreference
+            android:key="button6_text"
+            android:summary="@string/settings_button6_text_sum"
+            android:title="@string/settings_button6_text_title" />
+        <EditTextPreference
+            android:key="button6_key"
+            android:summary="@string/settings_button6_key_sum"
+            android:title="@string/settings_button6_key_title" />
+        <EditTextPreference
+            android:key="button6_value"
+            android:summary="@string/settings_button6_value_sum"
+            android:title="@string/settings_button6_value_title" />
+
+        <EditTextPreference
+            android:key="button7_text"
+            android:summary="@string/settings_button7_text_sum"
+            android:title="@string/settings_button7_text_title" />
+        <EditTextPreference
+            android:key="button7_key"
+            android:summary="@string/settings_button7_key_sum"
+            android:title="@string/settings_button7_key_title" />
+        <EditTextPreference
+            android:key="button7_value"
+            android:summary="@string/settings_button7_value_sum"
+            android:title="@string/settings_button7_value_title" />
+
+
+
+        <EditTextPreference
+            android:key="button8_text"
+            android:summary="@string/settings_button8_text_sum"
+            android:title="@string/settings_button8_text_title" />
+        <EditTextPreference
+            android:key="button8_key"
+            android:summary="@string/settings_button8_key_sum"
+            android:title="@string/settings_button8_key_title" />
+        <EditTextPreference
+            android:key="button8_value"
+            android:summary="@string/settings_button8_value_sum"
+            android:title="@string/settings_button8_value_title" />
+
+
 
 </PreferenceScreen>
